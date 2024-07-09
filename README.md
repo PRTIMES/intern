@@ -2,7 +2,7 @@
 
 「[ISUCON](https://isucon.net)」は、LINE株式会社の商標または登録商標です。
 
-[PR TIMESで修行したい学生インターンを募集します | PR TIMES 開発者ブログ](https://developers.prtimes.jp/2021/08/25/prtimes-intern-202108/)
+[PR TIMESで実力を上げたい学生インターンを募集します | PR TIMES 開発者ブログ](https://developers.prtimes.jp/2021/08/25/prtimes-intern-202108/)
 
 ## 課題
 
