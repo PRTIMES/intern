@@ -11,7 +11,7 @@
     * PR TIMES社内ではPHPが利用されているため、**必ずPHPを利用**してください
     * PHPは追加の手順が必要なのでREADMEをよく読んでください
   * AWSアカウントがあればAMIで起動するのが一番簡単ですが、クレジットカードと利用料が必要です
-  * 手元で動かす方法や[Docker Compose](https://www.docker.com/)・[Vagrant](https://www.vagrantup.com/)を使う方法もあります
+  * [Docker Compose](https://www.docker.com/)や[cloud-init](https://cloudinit.readthedocs.io/en/latest/)を使う方法もあります
     * 仮想マシンが起動できない場合、BIOSの設定を確認してください
   * AWSか手元で動かすかは自由ですが、必ずどちらかの方法で動かしてください
 * ブラウザからアプリケーションが表示されるか確認して下さい
@@ -24,7 +24,7 @@
 * 自分のGitHubアカウントを使って空のリポジトリを作ってください
   * 名前はわかりやすければ何でも構いません
 * `/home/isucon/private_isu/webapp/`ディレクトリの中で`git init`して、先程作ったあなたのリポジトリにpushしてください
-  * AMI・Vagrant以外の方法で起動している場合はwebappディレクトリの中で`git init`してください
+  * AMI以外の方法で起動している場合はwebappディレクトリの中で`git init`してください
   * あなたが行った変更の差分が分かるように必ず変更を行う前に`git init`をしてコミットするのを忘れないで下さい
 * アプリケーションのソースコードに複数の変更を加えてscoreを上げてください
   * 変更を行ったら変更内容毎にPull Requestにしてください
